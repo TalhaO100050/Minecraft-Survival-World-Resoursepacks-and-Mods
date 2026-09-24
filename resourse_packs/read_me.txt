@@ -6,7 +6,7 @@ Bu klosördekü resourse packleri eklemeyi unutmayın!
 Talha's-colorful-songs-resoursepack
 Talha's-money-resoursepack
 EvenBetterEnchants_v3_1.21.5+
-VanillaTweaks_r929959_MC26.2.x
+VanillaTweaks_r748001_MC26.2.x
 
 
 ---Ekstra---
